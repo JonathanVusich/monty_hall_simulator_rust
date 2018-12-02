@@ -1,0 +1,7 @@
+/target
+**/*.rs.bk
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/monty_hall_simulator_rust.iml
